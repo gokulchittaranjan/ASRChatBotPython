@@ -1,0 +1,8 @@
+/*Some css fixes to use night theme with IPython slides*/
+body {
+   background-color: #FFF; /*Default bg, similar to the background's base color*/
+   background-image: url("QSLogo.png");
+   background-size: 30%, auto;
+   background-position: left top; /*Positioning*/
+   background-repeat: no-repeat; /*Prevent showing multiple background images*/
+}
